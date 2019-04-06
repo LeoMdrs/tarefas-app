@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "Tarefa 1",
+            "responsible": "Maria",
+            "description": "lorem ipsum",
+            "priority": "low"
+        },
+        {
+            "title": "Tarefa 2",
+            "responsible": "Ana",
+            "description": "lorem ipsum",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarefa 3",
+            "responsible": "Jose",
+            "description": "lorem ipsum",
+            "priority": "high"
+        }
+    ]
+}
